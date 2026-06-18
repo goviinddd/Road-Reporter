@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "115409206500",
+    "project_id": "eyes-on-road-da9bc",
+    "storage_bucket": "eyes-on-road-da9bc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115409206500:android:abb6159cb8bf24ee4400f1",
+        "android_client_info": {
+          "package_name": "com.example.hazardreportingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZah4yA3MQzMsynQxaU-3dEbk4Q3c3zrs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
